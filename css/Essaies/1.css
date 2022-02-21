@@ -1,0 +1,47 @@
+body{
+    border: solid black;
+    border-width: 9px 11px;
+    height: 340px;
+
+
+}
+
+.runNumber{
+    background-color:black;
+    color:white;
+    font-size:medium;
+}
+
+.DatePrinted{
+    top:339px;
+    left:345px;
+}
+.essai{
+    visibility:visible;
+    border:4px solid black;
+}
+
+.lblEssai{
+    visibility:visible;
+    font-size:48px;
+    margin-left:70px;
+}
+
+.FONumber{
+    font-size:20px;
+}
+
+.grade{
+    font-size:20px;
+}
+.Run{
+    font-size: medium;
+}
+
+.Four{
+    font-size: medium;
+}
+
+.FurnaceNumber{
+    font-size: medium;
+}
